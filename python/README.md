@@ -4,7 +4,7 @@ Este repositorio contiene mis prácticas y proyectos desarrollados mientras apre
 
 ##Estructura del repositorio
 
-### ✔ Ejercicios básicos
+### Ejercicios básicos
 Estos archivos incluyen:
 - operaciones aritméticas
 - condicionales
